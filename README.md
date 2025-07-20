@@ -19,7 +19,7 @@ This repository provides a Python script for processing and plotting **constant 
 
 Below is an example plot showing time vs. RHE-corrected potential:
 
-![Chronopotentiometry Graph](CC1.png)
+![Chronopotentiometry Graph](CC11.png)
 
 ---
 
